@@ -1,4 +1,4 @@
-# EE312 Software Design and Implementation I Projects
+# Game of Life
 
 ## Academic Integrity Disclaimer
 

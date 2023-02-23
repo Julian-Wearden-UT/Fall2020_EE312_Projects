@@ -1,4 +1,4 @@
-# EE312 Software Design and Implementation I Projects
+# Binary Search Trees
 
 ## Academic Integrity Disclaimer
 

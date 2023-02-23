@@ -1,4 +1,4 @@
-# EE312 Software Design and Implementation I Projects
+# Go Fish!
 
 ## Academic Integrity Disclaimer
 
