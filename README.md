@@ -35,4 +35,4 @@ A program that implements classes and methods to simulate the storage portion of
 
 ##
 ###### This project was completed at UT Austin in the Fall of 2020 by: 
-###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden
+###### <a href="mailto:julianwearden@utexas.edu">Julian Wearden</a>
